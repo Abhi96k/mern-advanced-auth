@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "auth-tutorial": "file:.."
+  }
+}
